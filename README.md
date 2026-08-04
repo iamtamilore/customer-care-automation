@@ -1,6 +1,38 @@
 # Customer Care Process Automation
 
-Two bots that took over two jobs I used to do by hand.
+**Two robots that took over two boring jobs I used to do by hand every morning.**
+
+---
+
+## Why this matters
+
+When you text your phone company because your credit vanished, a real person has to read
+your message and decide which team should fix it. Billing? SIM card? Refund?
+
+Now imagine hundreds of those messages, every single morning, and one tired human sorting
+them one by one before 9am. They will get some wrong. Not because they are bad at their
+job - because *anyone* would.
+
+When they get it wrong, your complaint goes to the wrong desk, and you wait days for
+something that should have taken an hour.
+
+So I built two robot helpers:
+
+- **The first one is a checker.** It goes through customer records looking for mistakes -
+  a phone number with the wrong number of digits, a date that is not a real date. Boring,
+  fussy work that a computer never gets tired of.
+- **The second one actually reads the complaints** and decides which team they belong to.
+
+**And here is the part I am most proud of:** the second robot is allowed to say
+*"I do not know."*
+
+If it is not sure enough, it stops and asks a human instead of guessing. Most systems never
+do this. They guess confidently and get it wrong, and nobody notices until a customer is
+furious.
+
+Being right and being *sure* are two different things. This robot knows the difference.
+
+---
 
 ## The story
 
