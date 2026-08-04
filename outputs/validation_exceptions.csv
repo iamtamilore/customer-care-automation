@@ -1,0 +1,6 @@
+CustomerID,FirstName,LastName,MSISDN,CustomerSegment,CreationDate,Status,validation_errors
+CUST000042,Blessing,Ogunleye,08075708620,Corporate,07/07/2026,Active,bad CreationDate '07/07/2026'
+CUST000086,Chioma,Musa,08051556990,VIP,2026-07-04,Pending,unknown segment 'VIP'
+CUST000089,Bello,Adebayo,09999145046,Prepaid,2026-06-30,Pending,MSISDN prefix '0999' not in catalogue
+CUST000099,,Musa,08071487696,Postpaid,2026-07-04,Pending,FirstName is empty
+CUST000116,Tunde,Lawal,0815286,Corporate,2026-07-07,Suspended,MSISDN '0815286' is not 11 digits

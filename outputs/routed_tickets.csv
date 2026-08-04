@@ -1,0 +1,6 @@
+ticket_id,ticket_text,predicted_category,confidence,routed_team,needs_human_review,model_version,prediction_timestamp
+NEW001,my sim is not connecting to glo network after i activated it,SIM_ACTIVATION,0.3662362783219248,SIM Team,True,nb_v1,2026-07-31 23:02:53
+NEW002,no network in lekki since morning cant make calls,NETWORK,0.6036554819832072,Network Ops,False,nb_v1,2026-07-31 23:02:53
+NEW003,i paid 1000 naira for data but got debited and got nothing,PAYMENT_BILLING,0.4071476535365432,Billing Team,True,nb_v1,2026-07-31 23:02:53
+NEW004,please refund my double charge of 2000 naira,REFUNDS,0.5525009443209674,Finance / Refunds,False,nb_v1,2026-07-31 23:02:53
+NEW005,how do i check my data balance,GENERAL,0.6823091250475237,Tier-1 Desk,False,nb_v1,2026-07-31 23:02:53

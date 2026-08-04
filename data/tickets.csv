@@ -1,0 +1,211 @@
+ticket_id,msisdn,created_at,channel,ticket_text,category
+TCK00023,07054332003,2026-06-22 07:31:00,Retail Shop,The agent for Lekki do the swap but my number never port enter the new SIM.,SIM_ACTIVATION
+TCK00048,08050504556,2026-07-03 05:27:00,Retail Shop,4G keeps switching to 3G every few minutes in Yaba and downloads restart.,NETWORK
+TCK00082,08154479627,2026-06-26 01:58:00,USSD,"Data is extremely slow on 08076401658, cannot even open WhatsApp in Surulere.",NETWORK
+TCK00080,07051704303,2026-06-09 08:40:00,USSD,"SMS is not delivering, messages hang on sending since yesterday evening.",NETWORK
+TCK00049,07057474074,2026-06-16 00:50:00,Call Center,"Network has been down in Yaba for hours, nobody can call me.",NETWORK
+TCK00042,08070715451,2026-06-13 02:05:00,Social Media,The agent for Port Harcourt do the swap but my number never port enter the new SIM.,SIM_ACTIVATION
+TCK00026,09055876036,2026-06-25 08:06:00,Social Media,"My old SIM stopped working after the swap, and the new one won't come on.",SIM_ACTIVATION
+TCK00135,08074279788,2026-07-04 07:43:00,Social Media,"I want a refund of N1500, the 6GB weekly bundle did not work at all.",REFUNDS
+TCK00113,08057393638,2026-06-27 04:36:00,Retail Shop,STOP DEDUCTING MY AIRTIME. N2000 vanished today again on 08075445877.,PAYMENT_BILLING
+TCK00179,08152824172,2026-06-14 04:14:00,Social Media,Which code do I use to borrow airtime on 07055135346?,GENERAL
+TCK00208,09058222394,2026-07-01 07:49:00,Social Media,"I want to change my tariff plan, what do I do?",GENERAL
+TCK00120,09058562185,2026-07-06 07:33:00,Email,I loaded a recharge card of N2000 for Ajah and it said invalid but the card is new.,PAYMENT_BILLING
+TCK00044,08112748467,2026-06-22 05:31:00,Social Media,"Data is extremely slow on 07056398214, cannot even open WhatsApp in Victoria Island.",NETWORK
+TCK00070,09051518203,2026-06-15 01:32:00,Social Media,"No signal in Ikorodu since this morning, my calls keep dropping.",NETWORK
+TCK00136,08155171339,2026-06-15 03:05:00,Social Media,"It has been two weeks since I reported the failed recharge, where is my N1500 refund?",REFUNDS
+TCK00186,08151173934,2026-06-11 00:48:00,USSD,I need help with my Glo line 08116420873.,GENERAL
+TCK00196,07051699586,2026-06-24 05:43:00,Retail Shop,"How do I link my NIN to this line, is there a code for it?",GENERAL
+TCK00077,08119861434,2026-07-04 08:45:00,Retail Shop,"I cannot receive calls, people say my line 08119711798 is switched off but my phone is on.",NETWORK
+TCK00122,08054754121,2026-07-02 02:32:00,Social Media,My airtime of N5000 disappeared right after I recharged 08078610158.,PAYMENT_BILLING
+TCK00180,08157170999,2026-07-05 01:04:00,Email,Abeg how person go take transfer data give another Glo line?,GENERAL
+TCK00195,07055160917,2026-06-23 00:52:00,Retail Shop,Do you people have a Glo shop in Surulere? I need to sort something out.,GENERAL
+TCK00096,08119623091,2026-07-01 08:32:00,USSD,"My data finished too fast, N1000 worth of N1000 airtime top-up gone in one day, check my usage.",PAYMENT_BILLING
+TCK00089,08113969078,2026-06-28 04:30:00,Email,I bought N2000 airtime at Victoria Island but it never reflected on my line.,PAYMENT_BILLING
+TCK00004,08151928327,2026-06-25 04:01:00,Social Media,"PLEASE ACTIVATE MY SIM, I have registered it TWICE already and nothing.",SIM_ACTIVATION
+TCK00126,08073982807,2026-06-07 05:32:00,USSD,"Every morning una dey remove small small money from my line 08111672434, wetin be that?",PAYMENT_BILLING
+TCK00163,08073917251,2026-06-30 03:40:00,Email,The Glo Yakata offer was cancelled but my N1500 has not been refunded.,REFUNDS
+TCK00118,07054101666,2026-06-20 01:57:00,Call Center,STOP DEDUCTING MY AIRTIME. N500 vanished today again on 08112176591.,PAYMENT_BILLING
+TCK00099,09053384842,2026-07-04 05:45:00,Call Center,STOP DEDUCTING MY AIRTIME. N500 vanished today again on 08118330165.,PAYMENT_BILLING
+TCK00110,08152836440,2026-06-20 06:20:00,Retail Shop,"Wrong deduction on my line 08077056856, N1000 was removed for nothing.",PAYMENT_BILLING
+TCK00103,07050463745,2026-06-28 08:44:00,USSD,"Bill is showing N1500 extra that I did not use, please check my account.",PAYMENT_BILLING
+TCK00178,07050965207,2026-06-28 04:02:00,Retail Shop,"My complaint from last week has no update, ticket was for line 09056099353.",GENERAL
+TCK00013,08115009788,2026-07-02 08:28:00,Call Center,My new SIM 07051913619 is not registering on the network after activation.,SIM_ACTIVATION
+TCK00002,08074026542,2026-07-01 03:54:00,Call Center,"Abeg I bought this SIM for Abuja since last week, e never activate till now.",SIM_ACTIVATION
+TCK00007,08114828148,2026-06-18 05:51:00,USSD,My new SIM 07058809570 is not registering on the network after activation.,SIM_ACTIVATION
+TCK00009,08115787133,2026-07-05 03:59:00,Social Media,"PLEASE ACTIVATE MY SIM, I have registered it TWICE already and nothing.",SIM_ACTIVATION
+TCK00064,08153815614,2026-06-16 01:27:00,USSD,"My phone shows E instead of 4G in Yaba, browsing is impossible.",NETWORK
+TCK00025,08153487347,2026-07-05 04:45:00,USSD,"Abeg I bought this SIM for Surulere since last week, e never activate till now.",SIM_ACTIVATION
+TCK00160,08115992937,2026-06-20 04:49:00,Retail Shop,"Customer care promised a reversal of N500 on 08051039308 last Friday, nothing yet.",REFUNDS
+TCK00201,08074057202,2026-06-08 03:22:00,Call Center,How do I check my data balance?,GENERAL
+TCK00050,07056959440,2026-06-11 02:43:00,Call Center,"Data is extremely slow on 08070974395, cannot even open WhatsApp in Yaba.",NETWORK
+TCK00073,08118059296,2026-07-03 06:49:00,Social Media,"The network for Ajah na one bar today, video call no dey possible at all.",NETWORK
+TCK00176,09058007229,2026-06-12 08:46:00,USSD,I want to know the difference between Glo Yakata offer and the normal plan.,GENERAL
+TCK00069,09050054119,2026-06-18 00:36:00,Retail Shop,Glo network don disappear for Ibadan since NEPA take light yesterday.,NETWORK
+TCK00193,08079488375,2026-06-26 08:08:00,Email,"My complaint from last week has no update, ticket was for line 09055899757.",GENERAL
+TCK00098,08153757584,2026-06-28 07:24:00,Social Media,The ussd code charged me N2000 but the Glo Yakata offer did not activate.,PAYMENT_BILLING
+TCK00033,08058313678,2026-06-13 05:16:00,Retail Shop,Registered my SIM with NIN at the shop but the line 08117701436 is still not active.,SIM_ACTIVATION
+TCK00128,08116561014,2026-06-30 00:13:00,Social Media,"REFUND MY N5000 NOW, this is the third time I am writing about this.",REFUNDS
+TCK00040,09054887719,2026-07-06 02:13:00,USSD,"Welcome SMS never came after I inserted the new SIM, is my line 08074013990 activated?",SIM_ACTIVATION
+TCK00141,07057129387,2026-07-07 08:16:00,USSD,"I was double-charged N500 for the Glo Yakata offer, I need a refund.",REFUNDS
+TCK00159,08073213348,2026-06-11 08:12:00,Email,The failed transaction of N5000 should be reversed to my main balance please.,REFUNDS
+TCK00107,09050462265,2026-06-09 02:32:00,Retail Shop,"Every morning una dey remove small small money from my line 09051825128, wetin be that?",PAYMENT_BILLING
+TCK00059,08074789611,2026-06-10 00:14:00,Email,"Browsing is dead in Ikeja, even Google will not open, is there an outage?",NETWORK
+TCK00086,08079578291,2026-07-05 04:35:00,Retail Shop,"Bill is showing N2000 extra that I did not use, please check my account.",PAYMENT_BILLING
+TCK00091,09059632595,2026-07-01 06:29:00,Social Media,I bought N1000 airtime at Ibadan but it never reflected on my line.,PAYMENT_BILLING
+TCK00189,09057621202,2026-07-04 02:02:00,Social Media,Please I have a complaint about my account.,GENERAL
+TCK00182,08116667600,2026-06-20 05:14:00,USSD,I don't understand the last message Glo sent me.,GENERAL
+TCK00056,08073933529,2026-07-07 04:06:00,Email,"The network for Ikorodu na one bar today, video call no dey possible at all.",NETWORK
+TCK00031,08150671657,2026-06-15 06:33:00,Email,"PLEASE ACTIVATE MY SIM, I have registered it TWICE already and nothing.",SIM_ACTIVATION
+TCK00185,09056184723,2026-06-15 08:41:00,Retail Shop,I don't understand the last message Glo sent me.,GENERAL
+TCK00127,09059796886,2026-06-20 08:10:00,USSD,Please reverse the N500 wrongly deducted from 08118911352 yesterday.,REFUNDS
+TCK00014,08071699854,2026-07-01 03:45:00,USSD,My new SIM 09052475107 is not registering on the network after activation.,SIM_ACTIVATION
+TCK00072,08152816850,2026-06-26 04:49:00,Email,"THREE DAYS NOW no network in my area Ikeja, how are we supposed to work?",NETWORK
+TCK00061,08110494519,2026-06-21 05:51:00,Retail Shop,"The network for Yaba na one bar today, video call no dey possible at all.",NETWORK
+TCK00037,07051869993,2026-06-13 00:36:00,Retail Shop,I did SIM swap yesterday but the new SIM still shows no service.,SIM_ACTIVATION
+TCK00081,08055667652,2026-06-22 01:37:00,Social Media,"I have full bars but no internet, this started after the 6GB weekly bundle subscription.",NETWORK
+TCK00123,08156046618,2026-06-09 05:24:00,Social Media,The ussd code charged me N500 but the 12GB monthly plan did not activate.,PAYMENT_BILLING
+TCK00183,09058942104,2026-06-07 04:31:00,Social Media,I need help with my Glo line 08078562575.,GENERAL
+TCK00034,09058856855,2026-06-15 01:43:00,USSD,"New SIM says 'SIM not provisioned', I registered it at the Glo shop in Yaba.",SIM_ACTIVATION
+TCK00109,08059079030,2026-06-25 01:46:00,Social Media,My airtime of N5000 disappeared right after I recharged 07050284395.,PAYMENT_BILLING
+TCK00198,09050810620,2026-06-16 08:48:00,USSD,Please I have a complaint about my account.,GENERAL
+TCK00019,09053375433,2026-07-07 05:35:00,USSD,The agent for Lekki do the swap but my number never port enter the new SIM.,SIM_ACTIVATION
+TCK00079,08116540515,2026-06-30 07:11:00,Social Media,"No signal in Ibadan since this morning, my calls keep dropping.",NETWORK
+TCK00106,09057908740,2026-06-25 04:08:00,Call Center,"Recharged N500 through my bank app, money left my account but no airtime on 08113910651.",PAYMENT_BILLING
+TCK00111,07058733427,2026-06-08 08:25:00,Retail Shop,I was charged N500 for a Special Data bundle I never activated.,PAYMENT_BILLING
+TCK00084,08114310278,2026-06-25 00:53:00,USSD,"Constant call drops in Surulere, very poor network for the past three days.",NETWORK
+TCK00150,08057445187,2026-07-07 03:48:00,USSD,"Send back my N5000, the data bundle never entered my line 08074937597.",REFUNDS
+TCK00074,07054735977,2026-06-13 04:11:00,Retail Shop,"I cannot receive calls, people say my line 08078623924 is switched off but my phone is on.",NETWORK
+TCK00194,08155488510,2026-06-09 06:29:00,Email,"My phone is not working, please help.",GENERAL
+TCK00006,08051226916,2026-06-25 01:27:00,USSD,I did SIM swap yesterday but the new SIM still shows no service.,SIM_ACTIVATION
+TCK00032,07051473799,2026-06-16 02:39:00,Call Center,The agent for Ajah do the swap but my number never port enter the new SIM.,SIM_ACTIVATION
+TCK00171,07052999119,2026-06-13 07:10:00,USSD,I don't understand the last message Glo sent me.,GENERAL
+TCK00147,08052027588,2026-06-12 04:50:00,USSD,Please reverse the N1500 wrongly deducted from 07054105648 yesterday.,REFUNDS
+TCK00143,08116565234,2026-06-17 07:45:00,Social Media,"I need my money back, N5000 was taken for the 12GB monthly plan and the sub never worked.",REFUNDS
+TCK00144,09054037613,2026-06-22 07:27:00,Call Center,"Customer care promised a reversal of N2000 on 08155269658 last Friday, nothing yet.",REFUNDS
+TCK00076,08055305152,2026-07-03 08:42:00,Retail Shop,"My phone shows E instead of 4G in Ajah, browsing is impossible.",NETWORK
+TCK00209,08155231491,2026-06-09 05:40:00,Retail Shop,"Good afternoon, how can I stop these promo messages you send me every day?",GENERAL
+TCK00088,08074249818,2026-06-17 06:23:00,Social Media,"My data finished too fast, N500 worth of N1000 airtime top-up gone in one day, check my usage.",PAYMENT_BILLING
+TCK00090,08159255562,2026-06-13 03:28:00,Social Media,"Wrong deduction on my line 08055371473, N500 was removed for nothing.",PAYMENT_BILLING
+TCK00087,07058922680,2026-06-11 07:27:00,Email,"Bill is showing N1500 extra that I did not use, please check my account.",PAYMENT_BILLING
+TCK00116,08113120387,2026-06-26 08:21:00,Social Media,I loaded a recharge card of N5000 for Lekki and it said invalid but the card is new.,PAYMENT_BILLING
+TCK00015,08073842513,2026-06-26 04:50:00,Retail Shop,I did SIM swap yesterday but the new SIM still shows no service.,SIM_ACTIVATION
+TCK00167,08050324171,2026-06-28 02:30:00,Retail Shop,"I want a refund of N1000, the Special Data bundle did not work at all.",REFUNDS
+TCK00054,07058267586,2026-06-19 06:04:00,Retail Shop,"Data is extremely slow on 08111796405, cannot even open WhatsApp in Yaba.",NETWORK
+TCK00108,07050047868,2026-06-25 05:45:00,Retail Shop,STOP DEDUCTING MY AIRTIME. N1000 vanished today again on 08152431069.,PAYMENT_BILLING
+TCK00085,08117155188,2026-06-28 04:06:00,Email,I subscribed to the 6GB weekly bundle but it charged me N2000 twice.,PAYMENT_BILLING
+TCK00016,08058244935,2026-07-01 04:28:00,Retail Shop,"Inserted SIM shows emergency calls only, I finished registration yesterday.",SIM_ACTIVATION
+TCK00157,09052099934,2026-06-22 02:04:00,Social Media,"Debited N1000 twice for one subscription, kindly return one.",REFUNDS
+TCK00164,08050067626,2026-06-22 02:38:00,Social Media,The failed transaction of N1500 should be reversed to my main balance please.,REFUNDS
+TCK00047,08076158657,2026-06-10 00:58:00,Social Media,"Constant call drops in Ibadan, very poor network for the past three days.",NETWORK
+TCK00021,08115951484,2026-06-16 02:40:00,Retail Shop,I did SIM swap yesterday but the new SIM still shows no service.,SIM_ACTIVATION
+TCK00175,08077279855,2026-07-02 04:13:00,Call Center,"Good afternoon, how can I stop these promo messages you send me every day?",GENERAL
+TCK00200,08115989334,2026-06-23 06:17:00,Call Center,Wetin be the code to check how much data remain for my line?,GENERAL
+TCK00028,09052046537,2026-06-27 03:12:00,Retail Shop,The agent for Ikorodu do the swap but my number never port enter the new SIM.,SIM_ACTIVATION
+TCK00165,08151152621,2026-06-20 07:39:00,Social Media,The Glo Yakata offer was cancelled but my N500 has not been refunded.,REFUNDS
+TCK00206,08119190158,2026-07-04 04:10:00,USSD,I want to know the difference between 12GB monthly plan and the normal plan.,GENERAL
+TCK00066,08076641605,2026-07-02 01:07:00,USSD,"My phone shows E instead of 4G in Ikeja, browsing is impossible.",NETWORK
+TCK00192,09056317797,2026-07-05 01:32:00,USSD,I want to know the difference between 6GB weekly bundle and the normal plan.,GENERAL
+TCK00030,08070496631,2026-06-19 05:54:00,USSD,I did SIM swap yesterday but the new SIM still shows no service.,SIM_ACTIVATION
+TCK00022,08070443699,2026-06-17 03:31:00,Retail Shop,"My old SIM stopped working after the swap, and the new one won't come on.",SIM_ACTIVATION
+TCK00155,09058831712,2026-07-04 08:57:00,Email,"Una charge me twice for the same 6GB weekly bundle, I want one of the N500 back.",REFUNDS
+TCK00018,07051586923,2026-06-10 06:09:00,Email,"PLEASE ACTIVATE MY SIM, I have registered it TWICE already and nothing.",SIM_ACTIVATION
+TCK00172,09052996065,2026-06-15 05:57:00,Retail Shop,Please I have a complaint about my account.,GENERAL
+TCK00001,08050433218,2026-07-05 02:58:00,Call Center,"PLEASE ACTIVATE MY SIM, I have registered it TWICE already and nothing.",SIM_ACTIVATION
+TCK00078,08112460953,2026-06-19 02:49:00,Call Center,"Calls are not connecting, it says 'network busy' every time I dial.",NETWORK
+TCK00114,07055560932,2026-07-07 04:25:00,Social Media,"Every morning una dey remove small small money from my line 08076423536, wetin be that?",PAYMENT_BILLING
+TCK00169,07057416089,2026-06-09 00:09:00,Social Media,Abeg how person go take transfer data give another Glo line?,GENERAL
+TCK00174,08079023303,2026-07-06 01:57:00,USSD,How do I check my data balance?,GENERAL
+TCK00063,09056752545,2026-06-13 07:04:00,Call Center,"Calls are not connecting, it says 'network busy' every time I dial.",NETWORK
+TCK00137,08078254494,2026-06-07 00:03:00,Call Center,"Debited N1000 twice for one subscription, kindly return one.",REFUNDS
+TCK00112,08151830469,2026-06-18 08:05:00,Call Center,I loaded a recharge card of N1000 for Lekki and it said invalid but the card is new.,PAYMENT_BILLING
+TCK00105,08071088398,2026-07-03 06:40:00,Social Media,"Every morning una dey remove small small money from my line 09051397187, wetin be that?",PAYMENT_BILLING
+TCK00199,08078386384,2026-06-15 08:01:00,Retail Shop,I need help with my Glo line 09056580043.,GENERAL
+TCK00052,09054517123,2026-06-10 02:06:00,Social Media,"I have full bars but no internet, this started after the N1000 airtime top-up subscription.",NETWORK
+TCK00190,09051670145,2026-07-07 00:11:00,Social Media,Wetin be the code to check how much data remain for my line?,GENERAL
+TCK00029,08110033092,2026-06-30 06:30:00,Call Center,"My SIM got blocked after I lost my phone, I did replacement in Ikeja but the new one is not connecting.",SIM_ACTIVATION
+TCK00191,08116289002,2026-06-21 01:06:00,Retail Shop,Can someone call me back about my line 07051753540?,GENERAL
+TCK00154,08151124903,2026-06-11 03:51:00,Call Center,"It has been two weeks since I reported the failed recharge, where is my N500 refund?",REFUNDS
+TCK00166,07056884443,2026-07-04 08:35:00,Social Media,"I want a refund of N5000, the Special Data bundle did not work at all.",REFUNDS
+TCK00065,08151076226,2026-06-20 05:28:00,Social Media,"I have full bars but no internet, this started after the N1000 airtime top-up subscription.",NETWORK
+TCK00202,08071826886,2026-07-05 03:46:00,Email,How do I check my data balance?,GENERAL
+TCK00173,08117546913,2026-06-23 05:02:00,Retail Shop,Please I have a complaint about my account.,GENERAL
+TCK00146,08073285691,2026-06-28 02:14:00,Email,Please reverse the N1500 wrongly deducted from 08053161799 yesterday.,REFUNDS
+TCK00097,08075786527,2026-06-08 00:39:00,Social Media,"Wrong deduction on my line 08154973348, N1000 was removed for nothing.",PAYMENT_BILLING
+TCK00045,08054499727,2026-06-20 01:38:00,USSD,"I have full bars but no internet, this started after the Special Data bundle subscription.",NETWORK
+TCK00181,08077252175,2026-06-17 06:40:00,Call Center,I don't understand the last message Glo sent me.,GENERAL
+TCK00071,08115151864,2026-06-29 06:39:00,Call Center,"SMS is not delivering, messages hang on sending since yesterday evening.",NETWORK
+TCK00134,08150723688,2026-06-17 01:34:00,Retail Shop,"I was double-charged N500 for the Glo Yakata offer, I need a refund.",REFUNDS
+TCK00027,07054670656,2026-06-14 06:07:00,Retail Shop,"Abeg I bought this SIM for Ikeja since last week, e never activate till now.",SIM_ACTIVATION
+TCK00083,08077021355,2026-06-25 08:22:00,Email,"The network for Abuja na one bar today, video call no dey possible at all.",NETWORK
+TCK00148,08057785079,2026-07-02 03:50:00,USSD,"REFUND MY N500 NOW, this is the third time I am writing about this.",REFUNDS
+TCK00012,09057736026,2026-07-07 02:44:00,Retail Shop,"Please activate my line 08156872343, I bought it in Lekki but it is not working.",SIM_ACTIVATION
+TCK00117,08150862118,2026-07-03 05:48:00,Social Media,"Recharged N5000 through my bank app, money left my account but no airtime on 08074546156.",PAYMENT_BILLING
+TCK00203,08115739930,2026-06-16 03:36:00,Call Center,I need help with my Glo line 09054840858.,GENERAL
+TCK00100,08072677345,2026-06-28 08:02:00,Call Center,I paid N2000 for the Special Data bundle but I was debited and got no data.,PAYMENT_BILLING
+TCK00093,08158416878,2026-06-29 07:52:00,Call Center,"Wrong deduction on my line 09055585239, N2000 was removed for nothing.",PAYMENT_BILLING
+TCK00133,07058669296,2026-06-24 06:29:00,Social Media,"Customer care promised a reversal of N2000 on 08112827422 last Friday, nothing yet.",REFUNDS
+TCK00053,08115137098,2026-06-27 05:19:00,Call Center,"My phone shows E instead of 4G in Ajah, browsing is impossible.",NETWORK
+TCK00156,08117215107,2026-07-06 06:01:00,Social Media,"I want a refund of N1000, the Glo Yakata offer did not work at all.",REFUNDS
+TCK00153,08115574313,2026-07-03 07:51:00,Call Center,"Customer care promised a reversal of N2000 on 07057756185 last Friday, nothing yet.",REFUNDS
+TCK00095,08119470551,2026-06-24 04:10:00,Call Center,Why did Glo remove N1000 from my airtime for caller tune I never requested?,PAYMENT_BILLING
+TCK00207,08116842450,2026-06-20 00:51:00,Call Center,How do I check my data balance?,GENERAL
+TCK00017,09058680112,2026-06-20 08:07:00,USSD,"Welcome SMS never came after I inserted the new SIM, is my line 08078262045 activated?",SIM_ACTIVATION
+TCK00060,08114527111,2026-07-05 02:54:00,USSD,"Constant call drops in Victoria Island, very poor network for the past three days.",NETWORK
+TCK00125,08156924593,2026-06-22 03:49:00,Retail Shop,Why did Glo remove N1500 from my airtime for caller tune I never requested?,PAYMENT_BILLING
+TCK00057,08052402681,2026-06-14 07:30:00,Retail Shop,"Constant call drops in Lekki, very poor network for the past three days.",NETWORK
+TCK00011,09055133387,2026-07-03 02:49:00,USSD,My new SIM 09053178108 is not registering on the network after activation.,SIM_ACTIVATION
+TCK00092,08150047974,2026-06-20 08:06:00,Call Center,Dem don deduct my N5000 again for one auto-renewal wey I no subscribe to.,PAYMENT_BILLING
+TCK00124,08156471543,2026-06-14 01:22:00,Social Media,I was charged N2000 for a Glo Yakata offer I never activated.,PAYMENT_BILLING
+TCK00038,07054123281,2026-07-02 08:34:00,Retail Shop,"PLEASE ACTIVATE MY SIM, I have registered it TWICE already and nothing.",SIM_ACTIVATION
+TCK00205,08150110248,2026-07-05 05:02:00,USSD,"How do I link my NIN to this line, is there a code for it?",GENERAL
+TCK00145,08071043006,2026-06-21 04:20:00,Social Media,"I was double-charged N500 for the Glo Yakata offer, I need a refund.",REFUNDS
+TCK00046,08157662702,2026-06-21 03:05:00,Call Center,"No signal in Ikeja since this morning, my calls keep dropping.",NETWORK
+TCK00041,07057874296,2026-06-17 01:55:00,Retail Shop,"My SIM got blocked after I lost my phone, I did replacement in Ibadan but the new one is not connecting.",SIM_ACTIVATION
+TCK00115,08115477725,2026-07-02 06:14:00,Social Media,"Recharged N2000 through my bank app, money left my account but no airtime on 09052808010.",PAYMENT_BILLING
+TCK00210,08055336452,2026-06-16 03:04:00,Retail Shop,How do I check my data balance?,GENERAL
+TCK00132,09059691557,2026-06-18 06:08:00,USSD,"I need my money back, N1000 was taken for the Glo Yakata offer and the sub never worked.",REFUNDS
+TCK00043,08053482477,2026-07-04 08:20:00,Social Media,"SMS is not delivering, messages hang on sending since yesterday evening.",NETWORK
+TCK00158,08056578759,2026-06-21 03:36:00,USSD,The failed transaction of N5000 should be reversed to my main balance please.,REFUNDS
+TCK00062,08079809402,2026-06-29 04:02:00,USSD,"SMS is not delivering, messages hang on sending since yesterday evening.",NETWORK
+TCK00170,08056329451,2026-07-05 02:25:00,Retail Shop,I don't understand the last message Glo sent me.,GENERAL
+TCK00003,08074959310,2026-06-16 05:11:00,USSD,I did SIM swap yesterday but the new SIM still shows no service.,SIM_ACTIVATION
+TCK00177,08079691085,2026-06-20 04:41:00,Call Center,I want to know the difference between N1000 airtime top-up and the normal plan.,GENERAL
+TCK00184,07053230982,2026-07-04 03:15:00,Call Center,"My phone is not working, please help.",GENERAL
+TCK00102,08117420549,2026-06-16 05:49:00,Social Media,I subscribed to the Special Data bundle but it charged me N1000 twice.,PAYMENT_BILLING
+TCK00024,07058708317,2026-07-03 01:18:00,Social Media,"SIM not showing Glo network since I inserted it, tried restarting, still nothing.",SIM_ACTIVATION
+TCK00131,07057966033,2026-06-29 07:24:00,Call Center,"My refund reference from the Ibadan shop has still not been paid, it is N5000.",REFUNDS
+TCK00129,08057146112,2026-06-26 04:39:00,Retail Shop,The Glo Yakata offer was cancelled but my N500 has not been refunded.,REFUNDS
+TCK00119,08119740148,2026-06-19 08:49:00,USSD,"Wrong deduction on my line 08053926142, N1000 was removed for nothing.",PAYMENT_BILLING
+TCK00035,08119894134,2026-06-30 03:49:00,USSD,I ported to Glo but my SIM 08058240084 has been blank for two days.,SIM_ACTIVATION
+TCK00075,08058141247,2026-06-09 00:51:00,Retail Shop,"I cannot receive calls, people say my line 08053750606 is switched off but my phone is on.",NETWORK
+TCK00151,08056038505,2026-07-07 02:06:00,USSD,"My N500 recharge failed but the money left my bank, refund me please.",REFUNDS
+TCK00058,08110076617,2026-06-15 01:56:00,Call Center,Glo network don disappear for Abuja since NEPA take light yesterday.,NETWORK
+TCK00101,08114004991,2026-06-08 03:42:00,Retail Shop,I subscribed to the Glo Yakata offer but it charged me N500 twice.,PAYMENT_BILLING
+TCK00094,08050257872,2026-06-18 00:52:00,USSD,I paid N5000 for the N1000 airtime top-up but I was debited and got no data.,PAYMENT_BILLING
+TCK00039,08159361832,2026-06-08 04:08:00,Email,"Inserted SIM shows emergency calls only, I finished registration yesterday.",SIM_ACTIVATION
+TCK00168,08157743490,2026-07-03 07:55:00,USSD,"I was double-charged N5000 for the Special Data bundle, I need a refund.",REFUNDS
+TCK00121,08158662961,2026-06-13 04:09:00,Email,"Wrong deduction on my line 08111142626, N1500 was removed for nothing.",PAYMENT_BILLING
+TCK00139,08076363745,2026-06-11 04:39:00,Social Media,The failed transaction of N500 should be reversed to my main balance please.,REFUNDS
+TCK00140,07057706324,2026-07-02 04:55:00,USSD,"My refund reference from the Victoria Island shop has still not been paid, it is N500.",REFUNDS
+TCK00067,08153521818,2026-06-21 05:03:00,USSD,"Voice calls keep breaking, the person cannot hear me clearly on 08152312432.",NETWORK
+TCK00142,08152622189,2026-07-07 06:32:00,USSD,The 6GB weekly bundle was cancelled but my N1000 has not been refunded.,REFUNDS
+TCK00010,08073473829,2026-06-19 01:45:00,Retail Shop,I did SIM swap yesterday but the new SIM still shows no service.,SIM_ACTIVATION
+TCK00055,08151585064,2026-07-01 07:06:00,Retail Shop,"Calls are not connecting, it says 'network busy' every time I dial.",NETWORK
+TCK00152,07058657191,2026-06-21 06:20:00,Retail Shop,"My refund reference from the Ajah shop has still not been paid, it is N1500.",REFUNDS
+TCK00104,08155933272,2026-06-23 03:34:00,Social Media,"My data finished too fast, N1500 worth of 6GB weekly bundle gone in one day, check my usage.",PAYMENT_BILLING
+TCK00197,08118333945,2026-06-08 06:15:00,Email,"How do I link my NIN to this line, is there a code for it?",GENERAL
+TCK00149,09052208635,2026-06-30 02:02:00,USSD,The 6GB weekly bundle was cancelled but my N5000 has not been refunded.,REFUNDS
+TCK00008,08053911718,2026-06-13 06:52:00,Retail Shop,"SIM not showing Glo network since I inserted it, tried restarting, still nothing.",SIM_ACTIVATION
+TCK00162,08116752895,2026-06-30 06:36:00,USSD,"My N1000 recharge failed but the money left my bank, refund me please.",REFUNDS
+TCK00130,08111051238,2026-07-02 00:50:00,USSD,"I was double-charged N500 for the N1000 airtime top-up, I need a refund.",REFUNDS
+TCK00005,08115376724,2026-07-03 05:13:00,Social Media,"Inserted SIM shows emergency calls only, I finished registration yesterday.",SIM_ACTIVATION
+TCK00204,08153581128,2026-06-20 08:20:00,Call Center,"My phone is not working, please help.",GENERAL
+TCK00187,08051197218,2026-07-05 07:03:00,USSD,"My phone is not working, please help.",GENERAL
+TCK00020,08074019655,2026-06-24 00:53:00,Retail Shop,"Please activate my line 08073406088, I bought it in Yaba but it is not working.",SIM_ACTIVATION
+TCK00161,08073252500,2026-07-03 06:11:00,Call Center,"My refund reference from the Ajah shop has still not been paid, it is N1500.",REFUNDS
+TCK00188,08115611002,2026-06-16 06:39:00,USSD,Can someone call me back about my line 09059415521?,GENERAL
+TCK00068,08117799799,2026-06-27 03:51:00,Retail Shop,"Network has been down in Abuja for hours, nobody can call me.",NETWORK
+TCK00051,08112104709,2026-06-26 06:55:00,USSD,"I have full bars but no internet, this started after the 12GB monthly plan subscription.",NETWORK
+TCK00138,07059466711,2026-06-25 00:13:00,USSD,"It has been two weeks since I reported the failed recharge, where is my N1500 refund?",REFUNDS
+TCK00036,08059477752,2026-06-07 08:44:00,Retail Shop,The agent for Surulere do the swap but my number never port enter the new SIM.,SIM_ACTIVATION
