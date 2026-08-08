@@ -1,3 +1,6 @@
+> **[Read the full write-up](https://iamtamilore.github.io/p/care-agent/)** with diagrams, plots and results.
+> Part of [Taiwo Alabi's work](https://iamtamilore.github.io).
+
 # Customer Care Process Automation
 
 **Two robots that took over two boring jobs I used to do by hand every morning.**
